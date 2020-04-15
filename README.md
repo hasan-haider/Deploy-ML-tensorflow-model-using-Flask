@@ -14,4 +14,6 @@ pip install --upgrade tensorflow==1.15
 3. ImageAI
 pip install --upgrade imageai
 
+Download and add model file in static folder.
+
 Complete guide:
