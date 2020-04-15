@@ -11,6 +11,7 @@ pip install flask
 2. Tensorflow
 pip install --upgrade tensorflow==1.15
 
+ProcFile and config.py can be deleted if you don't want to deploy on heroku.
 
 Download and add model file in static folder.
 
