@@ -2,7 +2,9 @@
 Connect tensorflow model using flask without any use of API calls. Add any ML prototype and showcase your projects.
 
 
-Pre-requisite:
+Usage:
+Create virtualenv
+
 Install following packages using pip
 
 1. Flask
@@ -15,4 +17,5 @@ ProcFile and config.py can be deleted if you don't want to deploy on heroku.
 
 Download and add model file in static folder.
 
-Complete guide:
+Complete guide and explaination:
+https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f
